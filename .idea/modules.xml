@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exercicios Java.iml" filepath="$PROJECT_DIR$/Exercicios Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaFor/ExerciciosEstruturaFor.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaFor/ExerciciosEstruturaFor.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaWhile/ExerciciosEstruturaWhile.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaWhile/ExerciciosEstruturaWhile.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaSequencial/ExericiosCursoJava.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaSequencial/ExericiosCursoJava.iml" />
     </modules>
